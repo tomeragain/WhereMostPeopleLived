@@ -1,4 +1,4 @@
-<php
+<?php
 function getYearWhereMostPeopleLived(array $periodOfYears): array
 {
     $yearCounter = [];
